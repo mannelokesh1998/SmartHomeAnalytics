@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "namespaces_MySmartHomeNamespace_name": {
+            "value": null
+        },
+        "storageAccounts_mysmarthomedatalake_name": {
+            "value": null
+        },
+        "databaseAccounts_mysmarthomecosmosdb_name": {
+            "value": null
+        },
+        "streamingjobs_MySmartHomeStreamAnalytics_name": {
+            "value": null
+        }
+    }
+}
